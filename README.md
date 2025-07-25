@@ -1,0 +1,2 @@
+# Project-Name---Exploratory-Data-Analysis-of-Amazon-Prime-Videos-Content-library
+The goal of this project is to perform exploratory data analysis (EDA) on the Amazon Prime  dataset, focusing on urlerstanding the content catalog of TV shows and movies available on the platform. The analysis uncovers trends, insights, and patterns related to content type, genre distribution, ratings, release years, and regional availability.
